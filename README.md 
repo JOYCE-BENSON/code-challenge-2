@@ -1,0 +1,17 @@
+# Interactive Shopping List
+
+This is a simple interactive shopping list web application that allows users to add items, mark them as purchased, and clear the list. The list persists across page reloads using `localStorage`.
+
+git Features
+
+- Add items to the shopping list.
+- Mark items as purchased by clicking on them.
+- Clear the entire list with a single click.
+- Persist the shopping list across page reloads using `localStorage`.
+
+ Technologies Used
+
+- HTML
+- CSS
+- JavaScript (DOM manipulation and event handling)
+- `localStorage` for persistence
